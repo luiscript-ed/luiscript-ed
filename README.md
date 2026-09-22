@@ -1,6 +1,6 @@
 # Opa, meu nome é Luiz!
 
-Sou estudante do **SESI/SENAI**, gosto de tecnologia e desenvolvimento de Backend. Comecei com o desenvolvimento de jogos para trabalhos escolares em no-code, depois de me aprofundar um pouco na área, decidi que trabalharia nessa área que sempre gostei. Estou constantemente aprimorando minhas habilidades, estudando e construindo projetos para colocar em prática o que aprendo. Pretendo começar a focar em analise de dados e aplicação de IA.
+Sou estudante do **SESI/SENAI**, tenho 16 anos, gosto de tecnologias e desenvolvimento WEB. Comecei com o desenvolvimento de jogos para trabalhos escolares em no-code e em outras Engine´s. Depois de me aprofundar um pouco na área de TI, decidi que trabalharia nessa área que sempre gostei. Estou constantemente aprimorando minhas habilidades, estudando e construindo projetos para colocar em prática o que aprendo. Pretendo começar a focar em analise de dados e aplicação de IA.
 
 ---
 
